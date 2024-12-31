@@ -1,0 +1,14 @@
+.text1{
+color:orangered;
+font-size:50px;
+font-weight:900;
+background-color:aqua;
+}
+.p1{
+    color:darkblue;
+    font-family:"Calibri";
+}
+#h{
+    text-shadow: 4px 100px 5px rebeccapurple;
+    color:black;
+}
